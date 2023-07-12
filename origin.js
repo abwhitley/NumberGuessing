@@ -2,8 +2,6 @@
 
 var guesses = 0;
 
-console.log("test");
-
 const intro = () => {
     console.log("Welcome to the number guessing game.")
     console.log("Guess a number between 1-10.")
