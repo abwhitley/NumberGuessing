@@ -2,7 +2,7 @@
 
 var guesses = 0;
 
-console.log("simple-changes");
+console.log("other-changes");
 
 const intro = () => {
     console.log("Welcome to the number guessing game.")
